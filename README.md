@@ -113,9 +113,9 @@ I'm a passionate computer science student with a keen interest in building full-
 
 I'm always excited to collaborate on innovative projects, contribute to open-source, and connect with fellow developers!
 
-- 💼 **LinkedIn**: [barnik-basu-4b9930383](https://linkedin.com/in/barnik-basu-4b9930383)
+- 💼 **LinkedIn**: [barnik-basu](https://linkedin.com/in/barnik-basu-4b9930383)
 - 📧 **Email**: [barnikbasu@gmail.com](mailto:barnikbasu@gmail.com)
-- 🎥 **YouTube**: [@barnikunique3887](https://youtube.com/@barnikunique3887)
+- 🎥 **YouTube**: [@barnikbasu](https://youtube.com/@barnikunique3887)
 - 📸 **Instagram**: [@barnikbasu](https://instagram.com/barnikbasu)
 
 ---
