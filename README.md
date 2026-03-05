@@ -80,12 +80,11 @@ I'm a passionate computer science student with a keen interest in building full-
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnikbasu&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barnikbasu&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=E8481A&text_color=F5F5F5&icon_color=E8481A&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=barnikbasu&theme=default&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=barnikbasu&theme=dark&hide_border=true&background=080808&ring=E8481A&fire=FF6B35&currStreakLabel=E8481A&dates=6B7280)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barnikbasu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barnikbasu&theme=dark&hide_border=true&bg_color=080808&title_color=E8481A&text_color=F5F5F5&layout=compact&langs_count=6)
 </div>
 
 ---
@@ -94,7 +93,7 @@ I'm a passionate computer science student with a keen interest in building full-
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=barnikbasu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=barnikbasu&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=080808&title_color=E8481A&text_color=F5F5F5)
 
 </div>
 
