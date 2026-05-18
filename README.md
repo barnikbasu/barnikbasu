@@ -1,15 +1,21 @@
 <!-- ============================================= -->
 <!--              BARNIK BASU · README             -->
 <!-- ============================================= -->
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Barnik%20Basu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Research%20%7C%20Engineering%20%7C%20Open%20Source&descAlignY=58&descSize=20" width="100%" alt="Barnik Basu Banner" /> </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Barnik%20Basu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Research%20%7C%20Engineering%20%7C%20Open%20Source&descAlignY=58&descSize=20" width="100%" alt="Barnik Basu Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:0f2027&height=300&section=header&text=Barnik%20Basu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Research%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%26%20ML&descAlignY=56&descSize=22" width="100%" />
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/barnikbasu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Barnik+Basu+%F0%9F%91%8B;CSE+Student+%40+IIIT+Kalyani+%F0%9F%8E%93;AI+%7C+Research+%7C+Open+Source+Enthusiast+%F0%9F%A4%96;Building+Futuristic+Engineering+Projects+%F0%9F%94%A5" alt="Typing SVG" />
-  </a>
+
+<a href="https://github.com/barnikbasu">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Hi+there%2C+I'm+Barnik+Basu+%F0%9F%91%8B;CS+Undergrad+%40+IIIT+Kalyani+%F0%9F%8E%93;Research+%7C+Open+Source+%7C+Data+Science+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Futuristic+Engineering+Projects+%E2%9A%A1" alt="Typing SVG" />
+
+</a>
+
 </div>
 
 <p align="center">
