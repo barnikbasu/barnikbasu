@@ -1,347 +1,351 @@
-<!-- ============================================= -->
-<!--              BARNIK BASU · README             -->
-<!-- ============================================= -->
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Barnik%20Basu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Research%20%7C%20Engineering%20%7C%20Open%20Source&descAlignY=58&descSize=20" width="100%" alt="Barnik Basu Banner" /> </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:0f2027&height=300&section=header&text=Barnik%20Basu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Research%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%26%20ML&descAlignY=56&descSize=22" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6d28d9,50:7c3aed,100:2563eb&text=Barnik%20Basu&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20ITC%20SRA%20Scholar&descAlignY=58"/>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+IIIT+Kalyani;BS+Data+Science+Student+at+IIT+Madras;AI+%7C+Full-Stack+Development+%7C+Open+Source;Building+Technology+for+Real-World+Impact"/>
 
-<a href="https://github.com/barnikbasu">
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Hi+there%2C+I'm+Barnik+Basu+%F0%9F%91%8B;CS+Undergrad+%40+IIIT+Kalyani+%F0%9F%8E%93;Research+%7C+Open+Source+%7C+Data+Science+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Futuristic+Engineering+Projects+%E2%9A%A1" alt="Typing SVG" />
+![](https://img.shields.io/badge/IIIT_Kalyani-CSE'29-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/IIT_Madras-BS_Data_Science-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/JEE_2025-97.52%25ile-2563EB?style=for-the-badge)
 
+<br>
+
+![](https://img.shields.io/badge/Kolkata-India-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/Open_To-Research_&_Internships-2563EB?style=flat-square)
+
+<br><br>
+
+<a href="https://barnikbasu.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge"/>
 </a>
 
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barnikbasu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/barnikbasu?label=Followers&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/barnikbasu?label=Stars&style=for-the-badge&color=0e75b6" />
-</p>
-
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-```python
-class BarnikBasu:
-
-    def __init__(self):
-
-        self.location    = "Kolkata, India"
-
-        self.education   = [
-            "B.Tech CSE @ IIIT Kalyani"
-        ]
-
-        self.interests   = [
-            "Artificial Intelligence",
-            "Agentic AI",
-            "Research",
-            "Open Source",
-            "Web Engineering"
-        ]
-
-        self.currently   = [
-            "Building AI-powered systems",
-            "Exploring LLM workflows",
-            "Learning scalable engineering",
-            "Participating in hackathons"
-        ]
-
-        self.tech_stack  = [
-            "React",
-            "Next.js",
-            "TypeScript",
-            "Python",
-            "Firebase"
-        ]
-
-        self.goal        = "Build impactful futuristic technology"
-
-    def say_hi(self):
-        print("Engineering the future with AI 🚀")
-
-
-me = BarnikBasu()
-me.say_hi()
-```
-
-</td>
-
-<td width="42%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-</td>
-
-</tr>
-</table>
-
-- 🎓 **B.Tech in Computer Science & Engineering** @ **IIIT Kalyani**
-- 📍 Based in **Kolkata, India**
-- 🚀 Passionate about **AI, Research, Open Source & Futuristic Engineering**
-- 🧠 Exploring **LLMs, Agentic AI, RAG, Multi-Agent Systems & Web Tech**
-- 💡 Interested in **AI + Education, Intelligent Systems & Human-Centered Technology**
-- 🛠️ Building projects focused on **real-world impact & scalable systems**
-- 🎯 Goal: Contribute to impactful research, open-source & innovative startups
-- 🎼 Junior Scholar (Sarod) @ **ITC Sangeet Research Academy**
-- ⚡ Fun fact: I love mixing cinematic futuristic UI design with engineering systems
-
----
-
-# 🎓 Educational Qualification
-
-<div align="center">
-
-<table>
-<tr>
-<td width="80%" valign="top" align="center">
-
-## 🏛️ B.Tech. in Computer Science & Engineering  
-### Indian Institute of Information Technology Kalyani  
-📅 2025 – 2029
-
----
-
-🚀 Core focus on **Computer Science, Software Engineering & AI**
-
-🧠 Exploring **full-stack development, open source & intelligent systems**
-
-🏆 Active participation in **hackathons, innovation programs & technical communities**
-
-⚡ Building futuristic engineering projects with AI-driven ideas
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
----
-
-# 🏆 Academic Achievements
-
-<div align="center">
-
-| Achievement | Details |
-|---|---|
-| 🎯 JEE 2025 | **97.52 Percentile** *(Top 2.5%)* |
-| 🏫 School Education | **ICSE 2023 · ISC 2025** — St. Xavier’s Institution, Panihati |
-
-</div>
-
----
-
----
-
-# 🛠️ Tech Stack & Skills
-
-## 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-## ⚙️ Backend · Deployment · Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 🧠 Computer Science Fundamentals
-
-<p>
-  <img src="https://img.shields.io/badge/Data Structures-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem Solving-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code Review-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code Quality-E74C3C?style=for-the-badge" />
-</p>
-
----
-
-## 📊 Data Science · Analytics · ML
-
-<p>
-  <img src="https://img.shields.io/badge/Data Analysis-1F618D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data Science-0E6655?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine Learning-F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
----
-
-## 📐 Mathematics · Engineering Fundamentals
-
-<p>
-  <img src="https://img.shields.io/badge/Linear Algebra-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Probability & Statistics-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Physics-2980B9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital Logic-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electrical Engineering-C0392B?style=for-the-badge" />
-</p>
-
----
-
-## 🤝 Open Source · Collaboration · AI Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open Source-3DA639?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt Engineering-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM Augmented Development-1ABC9C?style=for-the-badge" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🛡️ SafeRoute — AI-Assisted Safety-Aware Navigation System
-
-> 🏆 **Top 10 Finalist — InnovateX Hackathon @ IIIT Kalyani**
-
-### 🔥 Highlights
-
-- Designed AI-assisted safety scoring framework using contextual risk analysis
-- Integrated Gemini API for natural-language safety explanations
-- Built real-time navigation workflows with Google Maps APIs
-- Developed full-stack MVP using React, TypeScript & Firebase
-- Focused on practical real-world urban safety challenges
-
----
-
-# 📜 Certifications & Achievements
-
-- 🏅 Deloitte Australia — Data Analytics Simulation (Forage)
-- 🏅 Electronic Arts — Software Engineering Simulation (Forage)
-- 🏅 AWS Solutions Architecture — Job Simulation (Forage)
-- 🏅 Ten Days of Code — NIT Durgapur
-- 🏅 National Road Safety Hackathon — IIT Madras
-- 🏅 Hack<N>Pitch — E-Summit'25, Jadavpur University
-- 🏅 East India Blockchain Summit 2.0 — IIT Kharagpur
-- 🏅 Open Source Connect Global (OSCG ’26) — Contributor Badge
-- 🏅 Winter of Code 5.0 — Open Source Contributor
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=barnikbasu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barnikbasu&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" height="180"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnikbasu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=10" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnikbasu&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barnikbasu&theme=tokyonight" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barnikbasu&theme=tokyonight&utcOffset=5.5" height="180"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barnikbasu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=00C2FF" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/barnikbasu/barnikbasu/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 💭 Philosophy
-
-<div align="center">
-
-> *"With great power comes great responsibility."*  
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/barnikbasu">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/barnikbasu">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/barnik-basu">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:barnikbasu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/barnikbasu">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=barnikbasu&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/barnikbasu?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/stars/barnikbasu?affiliations=OWNER&style=for-the-badge&color=2563EB)
+
+</div>
+
+---
+
+# About Me
+
+Computer Science undergraduate at **IIIT Kalyani** passionate about building AI-powered products, full-stack applications, and data-driven solutions.
+
+My interests span:
+
+- Artificial Intelligence & Machine Learning
+- Generative AI & Large Language Models
+- Full-Stack Product Engineering
+- Software Engineering
+- Data Science & Analytics
+- Open Source Development
+
+### Open To
+
+- Research Collaborations
+- Software Engineering Internships
+- AI/ML Projects
+- Open Source Programs
+- Hackathons
+- Product Development Opportunities
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|------------|
+| Machine Learning | Intermediate | Model Building, Evaluation, Classification |
+| Data Science | Intermediate | EDA, Statistics, Analytics |
+| Generative AI | Intermediate | Prompt Engineering, LLM Apps |
+| AI Product Development | Intermediate | AI-Powered Web Applications |
+| Analytics | Intermediate | Tableau, Business Intelligence |
+| Deep Learning | Foundational | Neural Network Fundamentals |
+| Data Engineering | Foundational | Data Pipelines |
+| Research | Developing | Experimental AI Systems |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>SafeRoute — AI-Assisted Safety-Aware Navigation System</b></summary>
+
+<br>
+
+Top 10 Finalist at InnovateX Hackathon, IIIT Kalyani.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | React, TypeScript, Firebase, Gemini API, Google Maps API |
+| Scale | Real-Time Navigation |
+| Performance | Dynamic Route Assessment |
+| Security | AI Safety Evaluation |
+| Impact | Safer Route Decision Making |
+| Repository | Coming Soon |
+
+### Highlights
+
+- AI-powered route safety scoring system
+- Gemini-based natural language explanations
+- Google Maps integration
+- Real-time navigation workflows
+- Full-stack architecture
+
+</details>
+
+---
+
+# Experience
+
+### Google Student Ambassador
+**Google Student Ambassadors (India)**
+
+**May 2026 – Present**
+
+- Community engagement initiatives
+- Technology awareness programs
+- Leadership development
+- Developer ecosystem participation
+
+**Skills**
+
+`Leadership` `Communication` `Developer Relations`
+
+---
+
+### Junior Scholar (Sarod)
+**ITC Sangeet Research Academy**
+
+**Apr 2026 – Present**
+
+- Advanced Sarod training
+- Guru-Shishya learning tradition
+- Performance development
+- Cultural representation
+
+**Skills**
+
+`Creativity` `Discipline` `Performance`
+
+---
+
+### Forward Learner
+**McKinsey & Company**
+
+**Apr 2026 – Present**
+
+- Business problem solving
+- Professional capability development
+- Leadership learning
+- Communication excellence
+
+**Skills**
+
+`Problem Solving` `Leadership` `Communication`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|------------|
+| JEE Main 2025 | 97.52 Percentile |
+| Google Student Ambassador | Selected Representative |
+| ITC SRA Scholar | Junior Scholar |
+| InnovateX Hackathon | Top 10 Finalist |
+| Winter of Code 5.0 | Contributor |
+| OSCG '26 | Contributor Badge |
+| IIT Madras Road Safety Hackathon | Participant |
+| East India Blockchain Summit | Attendee |
+
+</div>
+
+---
+
+# Certifications
+
+### AWS
+
+![](https://img.shields.io/badge/AWS-Solutions_Architecture-FF9900?style=for-the-badge)
+
+### Cisco
+
+![](https://img.shields.io/badge/Cisco-Introduction_to_Data_Science-1BA0D7?style=for-the-badge)
+
+### Deloitte
+
+![](https://img.shields.io/badge/Deloitte-Data_Analytics-6D28D9?style=for-the-badge)
+
+### Electronic Arts
+
+![](https://img.shields.io/badge/EA-Software_Engineering-2563EB?style=for-the-badge)
+
+### Programs
+
+![](https://img.shields.io/badge/NIT_Durgapur-Ten_Days_of_Code-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/NASA-Open_Science_101-2563EB?style=for-the-badge)
+
+![](https://img.shields.io/badge/GDG-Git_Set_Go-7C3AED?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge)](#)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge)](#)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge)](#)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](#)
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barnikbasu&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=barnikbasu&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnikbasu&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=barnikbasu&theme=algolia&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barnikbasu&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/barnikbasu/barnikbasu/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced DSA
+  - Machine Learning
+  - System Design
+  - Cloud Fundamentals
+
+Building:
+  - AI Applications
+  - Full-Stack Products
+  - Open Source Projects
+
+Exploring:
+  - LLM Engineering
+  - Generative AI
+  - Product Development
+  - Research
+
+Open_To:
+  - Research Opportunities
+  - Software Engineering Internships
+  - AI/ML Roles
+  - Open Source Collaborations
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:barnikbasu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/barnik-basu">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/barnikbasu">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
 </a>
 
 <a href="https://barnikbasu.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge"/>
 </a>
 
 </div>
@@ -350,6 +354,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=ffffff&animation=twinkling" />
+### "Building intelligent systems that create meaningful impact."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6d28d9,50:7c3aed,100:2563eb"/>
