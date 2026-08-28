@@ -4,12 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+IIIT+Kalyani;BS+Data+Science+Student+at+IIT+Madras;AI+%7C+Full-Stack+Development+%7C+Open+Source;Building+Technology+for+Real-World+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+IIIT+Kalyani;AI+%7C+Full-Stack+Development+%7C+Open+Source;Building+Technology+for+Real-World+Impact"/>
 
 <br><br>
 
 ![](https://img.shields.io/badge/IIIT_Kalyani-CSE'29-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/IIT_Madras-BS_Data_Science-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/JEE_2025-97.52%25ile-2563EB?style=for-the-badge)
 
 <br>
